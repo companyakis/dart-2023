@@ -7,3 +7,7 @@
 //open terminal and run:
 
 //dart create project_name
+
+//run dart project:
+
+//dart run
