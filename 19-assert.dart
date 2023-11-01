@@ -8,6 +8,6 @@ void main() {
 
   assert(moneyUSD > 5000); //Uncaught Error: Assertion failed
 
-  assert(moneyUSD == 10000,
-      "Not equal!"); //Uncaught Error: Assertion failed: "Not equal!"
+  assert(moneyUSD == 10000, "Not equal!"); //Uncaught Error: Assertion failed: "Not equal!"
+     
 }
